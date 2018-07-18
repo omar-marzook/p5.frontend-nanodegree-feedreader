@@ -7,8 +7,8 @@ Wrote a number of tests against a pre-existing Feed Reader application as part o
 ## Installation
 
 1. Download the GitHub zip file or clone the repository onto your local workstation:
-	* zip file [https://codeload.github.com/omar-marzook/p4.frontend-nanodegree-arcade-game-master/zip/master](https://codeload.github.com/omar-marzook/p4.frontend-nanodegree-arcade-game-master/zip/master "download zip file")
-	* git clone [https://github.com/omar-marzook/p4.frontend-nanodegree-arcade-game-master.git](https://github.com/omar-marzook/p4.frontend-nanodegree-arcade-game-master.git "git clone repository")
+	* zip file [https://github.com/omar-marzook/p5.frontend-nanodegree-feedreader/archive/master.zip](https://github.com/omar-marzook/p5.frontend-nanodegree-feedreader/archive/master.zip "download zip file")
+	* git clone [https://github.com/omar-marzook/p5.frontend-nanodegree-feedreader.git](https://github.com/omar-marzook/p5.frontend-nanodegree-feedreader.git "git clone repository")
 2. Open the index.html file in your browser.
 
 ## Tests included
@@ -20,7 +20,7 @@ Wrote a number of tests against a pre-existing Feed Reader application as part o
 
 ## Demo
 
-* Try It [Demo](https://omar-marzook.github.io/p4.frontend-nanodegree-arcade-game-master/)
+* Try It [Demo](https://omar-marzook.github.io/p5.frontend-nanodegree-feedreader)
 
 ## More Details
 
